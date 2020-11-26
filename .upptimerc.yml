@@ -7,7 +7,7 @@ sites:
   - name: Server 1
     url: https://server1.riehemann.net
   - name: Server 2
-    url: https://server2.riehemann.netg
+    url: https://server2.riehemann.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
