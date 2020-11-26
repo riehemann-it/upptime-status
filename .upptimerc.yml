@@ -13,16 +13,11 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname:status.riehemann.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  #baseUrl: /upptime-status
+  # baseUrl: /upptime-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Riehemann IT Consulting
   introTitle: "**Server Status**"
-  #introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  # introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/pitgrap/upptime-status
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
