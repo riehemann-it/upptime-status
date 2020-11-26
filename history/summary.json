@@ -5,14 +5,14 @@
     "slug": "server-1",
     "status": "up",
     "uptime": "100.00%",
-    "time": 532
+    "time": 552
   },
   {
     "name": "Server 2",
     "url": "https://server2.riehemann.net",
     "slug": "server-2",
     "status": "up",
-    "uptime": "0.00%",
-    "time": 272
+    "uptime": "100.00%",
+    "time": 362
   }
 ]
