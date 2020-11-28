@@ -3,9 +3,9 @@
     "name": "Server 1",
     "url": "https://server1.riehemann.net",
     "slug": "server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 559
+    "time": 497
   },
   {
     "name": "Server 2",
