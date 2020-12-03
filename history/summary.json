@@ -4,8 +4,16 @@
     "url": "https://server1.riehemann.net",
     "slug": "server-1",
     "status": "up",
-    "uptime": "99.29%",
-    "time": 594
+    "uptime": "99.32%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 870,
+    "timeDay": 1092,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870
   },
   {
     "name": "Server 2",
@@ -13,6 +21,14 @@
     "slug": "server-2",
     "status": "up",
     "uptime": "100.00%",
-    "time": 607
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 748,
+    "timeDay": 660,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748
   }
 ]
