@@ -2,22 +2,32 @@
   {
     "name": "Server 1",
     "url": "https://server1.riehemann.net",
+    "icon": "https://favicons.githubusercontent.com/server1.riehemann.net",
     "slug": "server-1",
     "status": "up",
-    "uptime": "99.03%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.03%",
-    "time": 861,
-    "timeDay": 855,
-    "timeWeek": 924,
-    "timeMonth": 861,
-    "timeYear": 861
+    "uptime": "99.11%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 864,
+    "timeDay": 803,
+    "timeWeek": 921,
+    "timeMonth": 864,
+    "timeYear": 864,
+    "dailyMinutesDown": {
+      "2020-12-06": 19,
+      "2020-12-05": 24,
+      "2020-12-03": 28,
+      "2020-12-02": 28,
+      "2020-11-29": 17,
+      "2020-11-28": 19
+    }
   },
   {
     "name": "Server 2",
     "url": "https://server2.riehemann.net",
+    "icon": "https://favicons.githubusercontent.com/server2.riehemann.net",
     "slug": "server-2",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 744,
-    "timeWeek": 709,
-    "timeMonth": 746,
-    "timeYear": 746
+    "time": 755,
+    "timeDay": 865,
+    "timeWeek": 707,
+    "timeMonth": 755,
+    "timeYear": 755,
+    "dailyMinutesDown": {}
   }
 ]
