@@ -1,4 +1,4 @@
-# [📈 Live Status](https://pitgrap.github.io/upptime-status): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.riehemann.net): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for Riehemann IT-Consulting, powered by [Upptime](https://github.com/upptime/upptime).
 
