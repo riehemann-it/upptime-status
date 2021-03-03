@@ -4,19 +4,19 @@
     "url": "https://server1.riehemann.net",
     "icon": "https://favicons.githubusercontent.com/server1.riehemann.net",
     "slug": "server-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 714,
-    "timeWeek": 809,
-    "timeMonth": 776,
-    "timeYear": 787,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 786,
+    "timeDay": 655,
+    "timeWeek": 782,
+    "timeMonth": 770,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2021-03-03": 0
+      "2021-03-03": 32
     }
   },
   {
