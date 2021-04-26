@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/server1.riehemann.net",
     "slug": "server-1",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 825,
-    "timeDay": 965,
-    "timeWeek": 1072,
-    "timeMonth": 971,
+    "timeDay": 790,
+    "timeWeek": 983,
+    "timeMonth": 963,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2021-03-03": 32
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 774,
-    "timeDay": 953,
-    "timeWeek": 997,
-    "timeMonth": 882,
+    "timeDay": 763,
+    "timeWeek": 950,
+    "timeMonth": 881,
     "timeYear": 774,
     "dailyMinutesDown": {}
   }
