@@ -27,9 +27,9 @@
     "slug": "server-2",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 800,
     "timeDay": 668,
@@ -37,7 +37,6 @@
     "timeMonth": 842,
     "timeYear": 815,
     "dailyMinutesDown": {
-      "2022-04-03": 9,
       "2022-03-24": 66
     }
   }
