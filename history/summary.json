@@ -4,7 +4,7 @@
     "url": "https://server1.riehemann.net",
     "icon": "https://favicons.githubusercontent.com/server1.riehemann.net",
     "slug": "server-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1013,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2022-08-24": 0,
       "2022-08-09": 18,
       "2022-08-06": 21,
       "2022-08-01": 32,
