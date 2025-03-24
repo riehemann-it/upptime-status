@@ -6,14 +6,14 @@
     "slug": "server-1",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 911,
-    "timeDay": 805,
-    "timeWeek": 979,
-    "timeMonth": 946,
+    "timeDay": 741,
+    "timeWeek": 960,
+    "timeMonth": 947,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2025-03-22": 21
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 878,
-    "timeDay": 520,
-    "timeWeek": 976,
-    "timeMonth": 929,
+    "timeDay": 724,
+    "timeWeek": 953,
+    "timeMonth": 926,
     "timeYear": 877,
     "dailyMinutesDown": {}
   }
