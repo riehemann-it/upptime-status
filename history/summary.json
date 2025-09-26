@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 878,
-    "timeDay": 1203,
-    "timeWeek": 986,
-    "timeMonth": 1154,
+    "timeDay": 980,
+    "timeWeek": 1013,
+    "timeMonth": 1144,
     "timeYear": 859,
     "dailyMinutesDown": {
       "2025-03-22": 21
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/server2.riehemann.net.ico",
     "slug": "server-2",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 829,
-    "timeDay": 906,
-    "timeWeek": 944,
-    "timeMonth": 982,
+    "timeDay": 989,
+    "timeWeek": 976,
+    "timeMonth": 972,
     "timeYear": 805,
     "dailyMinutesDown": {}
   }
