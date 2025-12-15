@@ -6,17 +6,16 @@
     "slug": "server-1",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 904,
-    "timeDay": 833,
-    "timeWeek": 945,
-    "timeMonth": 1056,
-    "timeYear": 892,
+    "timeDay": 811,
+    "timeWeek": 895,
+    "timeMonth": 1040,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2025-12-14": 12,
       "2025-03-22": 21
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 778,
-    "timeWeek": 889,
-    "timeMonth": 989,
-    "timeYear": 836,
+    "time": 839,
+    "timeDay": 648,
+    "timeWeek": 828,
+    "timeMonth": 967,
+    "timeYear": 835,
     "dailyMinutesDown": {}
   }
 ]
