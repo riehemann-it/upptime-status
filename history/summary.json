@@ -6,16 +6,17 @@
     "slug": "server-1",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
-    "time": 899,
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.97%",
+    "time": 900,
     "timeDay": 877,
     "timeWeek": 920,
     "timeMonth": 910,
-    "timeYear": 896,
+    "timeYear": 897,
     "dailyMinutesDown": {
+      "2026-02-24": 62,
       "2026-01-26": 48,
       "2025-03-22": 21
     }
